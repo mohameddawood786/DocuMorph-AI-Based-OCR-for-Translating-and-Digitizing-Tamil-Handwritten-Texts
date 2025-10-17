@@ -1,0 +1,2 @@
+# DocuMorph-AI-Based-OCR-Translating-And-Digitizing-Tamil-Handwritten-Texts
+An AI-driven OCR platform designed to convert handwritten Tamil text from scanned images into digital format, with an optional translation feature for printed English text into Tamil. The system integrates a custom-trained CRNN model, pretrained OCR frameworks, and advanced NLP-based post-processing for clean, accurate text extraction.
