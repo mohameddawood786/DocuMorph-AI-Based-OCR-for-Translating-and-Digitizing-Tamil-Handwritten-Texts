@@ -1,1 +1,12 @@
-"*.h5" 
+__pycache__/
+*.pyc
+*.db
+*.h5
+*.log
+*.fif
+*.webp
+*.jpg
+*.png
+.ipynb_checkpoints/
+my_env/
+.env
