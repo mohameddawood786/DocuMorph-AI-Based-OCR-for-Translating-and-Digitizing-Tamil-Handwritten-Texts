@@ -87,5 +87,3 @@ An AI-driven Optical Character Recognition (OCR) platform designed to convert ha
    ```bash
    streamlit run app.py
 
-   
-
